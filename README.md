@@ -26,4 +26,4 @@ In the project gradle file (not app), please add jitpack
 
 In your app build.gradle:
 
-`androidTestImplementation 'com.github.nicholaspark09:TheGrinch:0.1.6'`
+`androidTestImplementation 'com.github.nicholaspark09:grinch:0.1.0'`

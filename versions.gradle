@@ -4,8 +4,8 @@ versions.androidXTest           =       "1.2.0"
 versions.uiautomator            =       "2.2.0"
 versions.espresso               =       "3.2.0"
 versions.grinchMajor            = 0
-versions.grinchMinor            = 2
-versions.grinchPatch            = 1
+versions.grinchMinor            = 1
+versions.grinchPatch            = 0
 versions.versionCode            = versions.grinchMajor * 10000 + versions.grinchMinor * 1000 + versions.grinchPatch * 100
 versions.versionName            = "${versions.grinchMajor}.${versions.grinchMinor}.${versions.grinchPatch}"
 
