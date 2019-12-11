@@ -1,0 +1,35 @@
+def versions = [:]
+
+versions.androidXTest           =       "1.2.0"
+versions.uiautomator            =       "2.2.0"
+versions.espresso               =       "3.2.0"
+versions.grinchMajor            = 0
+versions.grinchMinor            = 2
+versions.grinchPatch            = 1
+versions.versionCode            = versions.grinchMajor * 10000 + versions.grinchMinor * 1000 + versions.grinchPatch * 100
+versions.versionName            = "${versions.grinchMajor}.${versions.grinchMinor}.${versions.grinchPatch}"
+
+ext.versions = versions
+
+
+def deps = [:]
+
+def xTest = [:]
+xTest.jUnit                     = "androidx.test.ext:junit:1.1.1"
+xTest.orchestrator              = "androidx.test:orchestrator:${versions.androidXTest}"
+xTest.rules                     = "androidx.test:rules:${versions.androidXTest}"
+xTest.runner                    = "androidx.test:runner:${versions.androidXTest}"
+deps.xTest = xTest
+
+def espresso = [:]
+espresso.core                   = "androidx.test.espresso:espresso-core:${versions.espresso}"
+espresso.contrib                = "androidx.test.espresso:espresso-contrib:${versions.espresso}"
+espresso.idling                 = "androidx.test.espresso:espresso-idling-resource:${versions.espresso}"
+deps.espresso = espresso
+
+def utils = [:]
+utils.uiautomator               = "androidx.test.uiautomator:uiautomator:${versions.uiautomator}"
+utils.hamcrest                  = "org.hamcrest:hamcrest-library:1.3"
+deps.utils = utils
+
+ext.deps = deps

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/anim/abc_tooltip_enter.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/interpolator/mtrl_linear.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    }
+]

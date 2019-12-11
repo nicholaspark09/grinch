@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

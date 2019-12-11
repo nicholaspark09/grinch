@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/b39675b7cceb773c6f5f3040c0218153/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/nicholaspark/Desktop/work/TheGrinch/GrinchWalker/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/nicholaspark/.gradle/caches/transforms-2/files-2.1/125c0e7bb668e1232ecb527ff9e5d204/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]
